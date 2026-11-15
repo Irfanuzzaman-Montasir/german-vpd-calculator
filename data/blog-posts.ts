@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "study-in-germany-complete-application-guide",
+    title: "Study in Germany from Bangladesh: Complete Application Roadmap & Document Checklist",
+    description:
+      "A complete, authoritative roadmap for Bangladeshi students planning to pursue Master's or Bachelor's in Germany. Covers full document preparation, Uni-Assist upload procedures, semester deadlines, and course shortlisting.",
+    publishedAt: "2025-02-24",
+    readTime: "10 min read",
+    category: "Roadmap",
+  },
+  {
     slug: "cgpa-to-german-grade",
     title: "How to Convert Bangladeshi CGPA to German Grade",
     description:
